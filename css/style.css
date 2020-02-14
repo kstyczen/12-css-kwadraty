@@ -1,0 +1,27 @@
+.kwadraty {
+    display: flex;
+    flex-direction: column;
+    background-color: gray;
+    height: 600px;
+    width: 250px;
+    padding-left: 20px;
+    padding-bottom: 40px;
+    justify-content: space-between;
+
+    
+
+}
+h1 {
+    color: white;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    background-color: yellow ;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    margin-left: 15px;
+    
+    
+}
